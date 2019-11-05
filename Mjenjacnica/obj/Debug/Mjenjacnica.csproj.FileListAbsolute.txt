@@ -1,0 +1,14 @@
+C:\Users\Turd nibbler\source\repos\Mjenjacnica\Mjenjacnica\bin\Debug\rates.json
+C:\Users\Turd nibbler\source\repos\Mjenjacnica\Mjenjacnica\bin\Debug\Mjenjacnica.exe.config
+C:\Users\Turd nibbler\source\repos\Mjenjacnica\Mjenjacnica\bin\Debug\Mjenjacnica.exe
+C:\Users\Turd nibbler\source\repos\Mjenjacnica\Mjenjacnica\bin\Debug\Mjenjacnica.pdb
+C:\Users\Turd nibbler\source\repos\Mjenjacnica\Mjenjacnica\bin\Debug\ConsoleTables.dll
+C:\Users\Turd nibbler\source\repos\Mjenjacnica\Mjenjacnica\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Turd nibbler\source\repos\Mjenjacnica\Mjenjacnica\bin\Debug\ConsoleTables.pdb
+C:\Users\Turd nibbler\source\repos\Mjenjacnica\Mjenjacnica\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Turd nibbler\source\repos\Mjenjacnica\Mjenjacnica\obj\Debug\Mjenjacnica.csprojAssemblyReference.cache
+C:\Users\Turd nibbler\source\repos\Mjenjacnica\Mjenjacnica\obj\Debug\Mjenjacnica.csproj.CoreCompileInputs.cache
+C:\Users\Turd nibbler\source\repos\Mjenjacnica\Mjenjacnica\obj\Debug\Mjenjacnica.csproj.CopyComplete
+C:\Users\Turd nibbler\source\repos\Mjenjacnica\Mjenjacnica\obj\Debug\Mjenjacnica.exe
+C:\Users\Turd nibbler\source\repos\Mjenjacnica\Mjenjacnica\obj\Debug\Mjenjacnica.pdb
+C:\Users\Turd nibbler\source\repos\Mjenjacnica\Mjenjacnica\bin\Debug\korisnici.json
